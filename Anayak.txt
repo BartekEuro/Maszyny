@@ -1,1 +1,28 @@
+Anayak HVM-6000
 
+Operatorzy: Piotr Kandora, Joachim Pietrucha, Bogdan Poprawa, Tomasz Kopiec
+
+Maszyna posiada deklarację zgodności z dyrektywą narzędziową \biuro\ rok produkcji 1997 Hiszpania 
+
+
+INFORMACJE TECHNICZNE:  X=5300 Y=1200 Z=2500/2150  obroty 10<3000  obciążenie płyty: 20.000kg 
+Sterowanie: tnc LE 426 CB
+Silnik główny 50kW
+
+
+
+CZĘŚCI ZAMIENNE:
+
+1.  Filtry do hydrauliki, biuro szuflada HYDRAULIKA
+2.  Przewód do liniału oś Z, szafa TECHNOLOGIA 
+
+
+
+ADNOTACJE:
+ostatni pomiar geometrii:  04.2025 LASERTEX
+
+
+AKCJE: 
+
+1.  26.02.26  Serwis klawiatury HMI, Marcin Jonas, wymiana 15 klawiszy i potencjometrów
+2.  16.09.25  Montaż nowego liniału oś Z, LS 106C ML=2240 zamiennik za ID.275067-31
