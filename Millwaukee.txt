@@ -1,0 +1,28 @@
+Millwaukee - Matic 800 
+Operatorzy: Tomasz Ruciński, Roman Wichur  
+
+Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ rok produkcji 1983 USA 
+
+INFORMACJE TECHNICZNE: stół 800x800 X=1000 Y=900 Z=800
+system Pronum 640 FC
+
+
+
+CZĘŚCI ZAMIENNE:
+1.  Silnik Kollmorgen (stary z osi X po serwisie, pasuje do Z i B) magazyn hala. 
+2.  Szczotki do silników Kollmorgen /biuro/ 
+
+
+
+ADNOTACJE:
+1. Po wymianie przekładni B długość rozjazdu w osi X zmniejszona z 1170 do 1100 programowo 
+
+
+
+AKCJE: 
+
+1.  02.26  likwidacja magazynu narzędzi / nowa przekładnia stół B / nowe PLC w temp/Bartek 
+2.  03.26  szlifowanie stożka wrzeciona 
+3.  03.25  wymionieno klawiatura w USN
+4.  09.25  wymienione łozysko napinające śruby osi / Fafnir na Timmken / Kocur
+5.  08.25  wymienione wszystkie rurki hydrauliczne pod stołem / do blokad i zmieniarki palet / Kocur 
