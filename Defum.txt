@@ -5,7 +5,7 @@ Operatorzy: Ireneusz langer, Piotr Kwieciński, Marek Setnik, Dawid Piechowski
 Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ rok produkcji 1984 Polska
 
 INFORMACJE TECHNICZNE: stół fi 1400, max średnica 1600, max wysokość 1300, obciążenie stołu 3000kg, 
-                        
+                       
 silnik głowny 37kW
 
 
@@ -21,6 +21,7 @@ ADNOTACJE:
 
 
 AKCJE: 
+
 
 
 
