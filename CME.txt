@@ -9,7 +9,7 @@ silnik głowny 20kW
 
 
 CZĘŚCI ZAMIENNE:
-1. Komplet łożysk do głowicy kątowej /biuro/
+1. Komplet łożysk do głowicy kątowej /niebieska szafa/
 
 
 
@@ -24,3 +24,4 @@ AKCJE:
 1.  12.25  wymiana liniału osi Y /nowy liniał LS 187 ML=1140 + adapter 1Vpp/11umA
 2.  02.26  nowa klawiatura do HMI
 3.  09.25  założony monitor zastępczy 
+
