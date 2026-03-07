@@ -1,18 +1,19 @@
+Tokarka karuzelowa jednostojakowa  SN – KCH 100NM  
 
-Operatorzy: 
+Operatorzy: Ireneusz Langer, Piotr Kwieciński, Maksym Langer 
 
-Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ rok produkcji 1984 Polska
+Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ Rok produkcji -  1986 - Polska
 
-INFORMACJE TECHNICZNE: 
+INFORMACJE TECHNICZNE: stół fi1000 płyta 1700, max wysokość 700, obciążenie stołu max 4000kg, sterowanie Pronum 
 
 
                        
-SILNIK GŁÓWNY: 
+SILNIK GŁÓWNY: 46 kW
 
 
 
 CZĘŚCI ZAMIENNE:
-
+1.  Zasilacz 12v /24v?/ szuflada eleketryka/biuro
 
 
 
@@ -23,3 +24,4 @@ ADNOTACJE:
 
 
 AKCJE: 
+
