@@ -1,14 +1,14 @@
 
 
-Operatorzy: 
+Operatorzy: Adam Machulec , Tomasz Ruciński 
 
-Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ rok produkcji 1984 Polska
+Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ produkcja: Węgry 
 
-INFORMACJE TECHNICZNE: 
-
+INFORMACJE TECHNICZNE: stół 630x2000  X=1600 Y=1070 Z=630  obciążenie stołu max 10.000 kg. 
+sterowanie FAGOR 8055 M 
 
                        
-SILNIK GŁÓWNY: 
+SILNIK GŁÓWNY: 22kW
 
 
 
@@ -24,4 +24,8 @@ ADNOTACJE:
 
 
 AKCJE: 
+
+1.	24.06.2025  Wymiana łożysk w głowicy /kupione w Martechu/ 
+      2 łożyska:  B 7022 E
+      1 łożysko:  NN 3016 K/SP 
 
