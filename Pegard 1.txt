@@ -1,5 +1,5 @@
 
-Operatorzy: Adrian Wilczek, Maksym Langer, Piotr Kandora
+Operatorzy: Tomasz Kopiec, Dawid Piechowski, Wichur Roman, Arkadiusz Machulec
 
 Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 
 
@@ -23,4 +23,5 @@ ADNOTACJE:
 
 
 AKCJE: 
+
 
