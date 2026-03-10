@@ -1,7 +1,7 @@
 
-Operatorzy: 
+Operatorzy: Mateusz Kocot, Grzegorz Kocur, Rafał Baron, 
 
-Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ rok produkcji 1984 Polska
+Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 
 
 INFORMACJE TECHNICZNE: 
 
@@ -23,3 +23,4 @@ ADNOTACJE:
 
 
 AKCJE: 
+
