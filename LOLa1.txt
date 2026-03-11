@@ -1,26 +1,46 @@
+Wiertarko-frezarka dwukolumnowa IVO LOLA RIBAR BG 130 P /kolumna 1/ nr fabryczny 05506 
 
-Operatorzy: Arkadiusz Machulec, Denis Perdyła, Kandora Piotr
+Operatorzy: Arkadiusz Machulec, Denis Perdyła, Kandora Piotr, Maksym Langer, Adrian Wilczek 
 
-Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 
+Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/  1988 Jugosławia 
 
-INFORMACJE TECHNICZNE: 
+INFORMACJE TECHNICZNE: tnc407 
 
 
                        
-SILNIK GŁÓWNY: 
+SILNIK GŁÓWNY: 35kW
 
 
 
 CZĘŚCI ZAMIENNE:
+
+1. Silnik oś Y /magazyn hala mały/ nowy
+2. Silnik oś Z,W /magazyn hala mały/ nowy
+3. Klawiaturta TE 400 /w szafie niebieskiej, jest klawiatura na czesci zamienne/  
+4. Potencjometry /szafa technologia/ nowe
+5. Przewód do silnika oś W /szafa technologia/ nowy
+6. Zawory do stolu PEGARD /szuflada hydraulika biuro/
+7. Glowice do liniału X /szafa technologia lub szuflada Heidenhain biuro/
+
 
 
 
 
 ADNOTACJE:
 
+1. Łańcuch do przeciwwagi LL 2066 10 metrow /BOLTEX Wojciech Subocz/
+2. Serwis napędów Seidel /Marcin Jonas/ 
+3. Głowica TOS LOLa 1 jest zaadaptowana do głowicy kątowej BENZ. 
+
 
 
 
 
 AKCJE: 
+
+1. 20.02.23 montaż nowego stołu obrotowego /W.Przybyłek, G.Kocur, T.Respondek, A.Machulec
+2. 16.09.25 Nowa taśma + głowica do liniału oś Y /LB 302C/
+3. 04.25  wymiana silnika wrzecionowego + nowa szafa z napedem /APS+Siemens, G.Kocur, A.Machulec, B.Lewandowski/
+    Adapter do silnika, sprzeglo i siłownik do zmiany przelozeń projektu PROMECH L.Gawron  
+4. 05.21  Wymiana śruby kulowej Y 63x10, P5, gwint 4305mm, całkowita 4550mm 
 
