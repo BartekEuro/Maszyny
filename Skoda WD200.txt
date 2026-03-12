@@ -13,7 +13,7 @@ SILNIK GŁÓWNY: 77kW
 
 
 CZĘŚCI ZAMIENNE:
-1. Silnik Z/W /magazyn mały hala/ 
+1. Silnik Z/W      /magazyn mały hala/ 
 
 
 
@@ -24,5 +24,6 @@ ADNOTACJE:
 
 
 AKCJE: 
+
 
 
