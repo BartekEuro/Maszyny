@@ -1,6 +1,6 @@
 Wiertarko-frezarka dwukolumnowa IVO LOLA RIBAR BG 130 P /kolumna 2/ nr fabryczny 05506
 
-Operatorzy: J.Goj, P.Myszka, A.Wilczek, 
+Operatorzy: J.Goj, P.Myszka, A.Wilczek, D.Perdyła 
 
 Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 1988 Jugosławia
 
@@ -13,16 +13,24 @@ SILNIK GŁÓWNY:
 
 
 CZĘŚCI ZAMIENNE:
-
+1. Silnik oś Y /magazyn hala mały/ nowy
+2. Silnik oś Z /magazyn hala mały/ nowy  
+3. Potencjometry /szafa technologia/ nowe
+4. Przewód do silnika oś W /szafa technologia/ nowy
+5. Glowice do liniału X i Y /szafa technologia lub szuflada Heidenhain biuro/
 
 
 
 ADNOTACJE:
-
+1. Korekcja geometrii 01.25, LASERTEX, G.Budzyń
 
 
 
 
 AKCJE: 
+1. 16.10.25 wymiana łozysk wrzecionowych 
+    NNU4932 BKMSPW33 SKF  1 szt    NOWE
+    NNU4938 BKMSPW33 SKF  1 szt    w dobrym stanie, zostało stare
+    51132-MP-FAG  2 szt            NOWE
 
 
