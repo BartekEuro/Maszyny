@@ -1,26 +1,28 @@
+Wiertarko-frezarka Skoda WD200B
 
 Operatorzy: Marcin Popielknicki, Piotr Pluta, Arkadiusz Machulec
 
-Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 
+Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 1975 Czechosłowacja 
 
-INFORMACJE TECHNICZNE: 
+INFORMACJE TECHNICZNE: X=7000 Y=4000 wrzeciono=2000mm pinola= 1600mm  tnc640 
 
 
                        
-SILNIK GŁÓWNY: 
+SILNIK GŁÓWNY: 77kW
 
 
 
 CZĘŚCI ZAMIENNE:
-
+1. Silnik Z/W /magazyn mały hala/ 
 
 
 
 ADNOTACJE:
-
+1. Łańcuch przeciwwagi 12.25 /zuzycie 0.75% dopuszczalne max 3%/ 
 
 
 
 
 AKCJE: 
+
 
