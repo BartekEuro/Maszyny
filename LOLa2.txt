@@ -2,9 +2,9 @@ Wiertarko-frezarka dwukolumnowa IVO LOLA RIBAR BG 130 P /kolumna 2/ nr fabryczny
 
 Operatorzy: J.Goj, P.Myszka, A.Wilczek, 
 
-Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ rok produkcji 1984 Polska
+Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 1988 Jugosławia
 
-INFORMACJE TECHNICZNE: 
+INFORMACJE TECHNICZNE: itnc530
 
 
                        
@@ -24,4 +24,5 @@ ADNOTACJE:
 
 
 AKCJE: 
+
 
