@@ -1,7 +1,7 @@
 
 Operatorzy: Mateusz Kocot, Grzegorz Kocur, Rafał Baron, 
 
-Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 
+Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/  Czechy 2004 
 
 INFORMACJE TECHNICZNE: 
 
@@ -17,6 +17,10 @@ SILNIK GŁÓWNY:
 
 
 CZĘŚCI ZAMIENNE:
+
+1. Transformator + pcb, zawór regulacyjny, regulator ciśnienia /mały magazyn hala/ 
+2. Mostki prostownicze i kondensatory /biuro szuflada eleketryka/ 
+3. Łozyska /szuflada łożyska/ 
 
 
 
