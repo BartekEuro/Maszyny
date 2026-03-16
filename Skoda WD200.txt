@@ -7,6 +7,11 @@ Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 1975 C
 INFORMACJE TECHNICZNE: X=7000 Y=4000 wrzeciono=2000mm pinola= 1600mm  tnc640 
 
 
+OLEJE:  
+
+1. Smarowanie:  Vactra 4 
+
+
                        
 SILNIK GŁÓWNY: 77kW
 
