@@ -6,8 +6,15 @@ Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/
 INFORMACJE TECHNICZNE: 
 
 
+OLEJE:
+
+1. Hydraulika i hydrostatyka: Nuto 46
+2. Smarowanie: Vactra 4
+3. Wrzeciennik: 
+
+
                        
-SILNIK GŁÓWNY: 
+SILNIK GŁÓWNY:  55 kW 
 
 
 
