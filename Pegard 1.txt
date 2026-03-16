@@ -6,6 +6,12 @@ Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ Belgia
 
 INFORMACJE TECHNICZNE: tnc426, X=1580 Y=1250 Z=900 W=1120, stół max 8000kg, 
 
+OLEJE: 
+
+1. Hydraulika: Nutop 32
+2. Smarowanie: Vactra 2
+3. Wrzeciennik: 
+
 
                        
 SILNIK GŁÓWNY:  21kW
