@@ -6,7 +6,11 @@ Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ rok pr
 
 INFORMACJE TECHNICZNE: stół fi 1400, max średnica 1600, max wysokość 1300, obciążenie stołu 3000kg, 
                        
-silnik głowny 37kW
+silnik główny 37kW
+
+OLEJE:
+
+1. Hydraulika i smarowanie: Nuto 68 
 
 
 CZĘŚCI ZAMIENNE:
