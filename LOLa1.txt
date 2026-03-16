@@ -36,11 +36,13 @@ CZĘŚCI ZAMIENNE:
 
 
 
+
 ADNOTACJE:
 
 1. Łańcuch do przeciwwagi LL 2066 10 metrow /BOLTEX Wojciech Subocz/
 2. Serwis napędów Seidel /Marcin Jonas/ 
 3. Głowica TOS LOLa 1 jest zaadaptowana do głowicy kątowej BENZ. 
+4. Aktualne PLC /temp/bartek/maszyny/maszyny/LOLa1
 
 
 
