@@ -3,7 +3,7 @@ Operatorzy: Adrian Wilczek, Maksym Langer, Piotr Kandora
 
 Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 
 
-INFORMACJE TECHNICZNE: 
+INFORMACJE TECHNICZNE: Sinumerik 840C 
 
 OLEJE:
 
