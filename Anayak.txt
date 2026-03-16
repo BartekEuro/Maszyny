@@ -14,7 +14,7 @@ OLEJE:
 1. Hydraulika maszyny: Nuto 68
 2. Smarowanie osi: Vactra 4 
 3. Olej do głowicy: Kluber GEM 1-100 N
-4. Konserwacja łańcucha:  Molydal NS-20 
+4. Konserwacja łańcucha przeciwwagi:  Molydal NS-20 
 
 1. Smarowanie stołu: Vactra 2
 2. Hydraulika stołu: Nuto 46 
