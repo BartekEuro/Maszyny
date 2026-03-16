@@ -19,8 +19,9 @@ CZĘŚCI ZAMIENNE:
 3. Klawiaturta TE 400 /w szafie niebieskiej, jest klawiatura na czesci zamienne/  
 4. Potencjometry /szafa technologia/ nowe
 5. Przewód do silnika oś W /szafa technologia/ nowy
-6. Zawory do stolu PEGARD /szuflada hydraulika biuro/
+6. Zawory PONAR do stolu PEGARD /szuflada hydraulika biuro/
 7. Glowice do liniału X /szafa technologia lub szuflada Heidenhain biuro/
+8. Pompa zębata do hydrauliki kabiny /biuro szuflada hydraulika/ Agro Hytos P23-4,4L.65017
 
 
 
