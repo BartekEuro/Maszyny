@@ -6,6 +6,11 @@ Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ Rok pr
 
 INFORMACJE TECHNICZNE: stół fi1000 płyta 1700, max wysokość 700, obciążenie stołu max 4000kg, sterowanie Pronum 
 
+OLEJE: 
+
+1. Hydraulika i smarowanie: Nuto 46
+
+
 
                        
 SILNIK GŁÓWNY: 46 kW
