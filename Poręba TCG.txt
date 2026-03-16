@@ -1,7 +1,7 @@
 
 Operatorzy: Ireneusz Langer, Piotr Kwieciński 
 
-Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 
+Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/  
 
 INFORMACJE TECHNICZNE: 
 
@@ -22,6 +22,9 @@ SILNIK GŁÓWNY:
 
 CZĘŚCI ZAMIENNE:
 
+1. Klin ustalający do górnej części suportu /szafa z szufladami na maszynie/ Firma ZAK , Okraska 
+2. Głowice pomiarowe do Z /szafa technologia, szuflada Heidenhain/ w magazynku na hali są głowice uszkodzone opisane BRAK REF 
+    poza tym są sprawne. Oś Z ma wyłączoną referencję więc awaryjnie można je wykorzystać. 
 
 
 
@@ -30,6 +33,11 @@ ADNOTACJE:
 
 
 
-
 AKCJE: 
+
+1.  12.25  uszkodzenie głowicy pomiarowej Z, wymiana na używaną bez REF. W korpusie powstało zagniecenie 
+    uniemożliwiające wyciągnięcie taśmy pomiarowej. Taśma została ponownie naciągnięta i założóne zostały uszczelnienia. 
+    Wykonano próby i pomiary, oś ma powtażalność i nie wykazuje żadnych błędów na pełnej długości przejazdu. 
+    W sytuacji konieczności demontażu liniału, niema możliwości wyciągnięcia taśmy bez jej uszkodzenia. 
+    
 
