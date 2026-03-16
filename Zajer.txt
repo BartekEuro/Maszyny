@@ -6,6 +6,12 @@ Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/
 INFORMACJE TECHNICZNE: 
 
 
+OLEJE:
+
+1. Hydraulika: Nuto 32
+2. Smarowanie: Vactra 2 
+
+
                        
 SILNIK GŁÓWNY: 
 
