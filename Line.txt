@@ -13,6 +13,9 @@ SILNIK GŁÓWNY:
 
 CZĘŚCI ZAMIENNE:
 
+1. Dysk twardy z backupem plc i md /szuflada LINE biuro/
+2. Części do klawiatury z HMI /szafa technologia/ 
+
 
 
 
