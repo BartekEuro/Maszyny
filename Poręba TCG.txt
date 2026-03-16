@@ -8,9 +8,11 @@ INFORMACJE TECHNICZNE:
 
 OLEJE: 
 
-1. Smarowanie: Vactra 4 
-2. Wrzeciennik:
-3. Konik:
+1. Smarowanie Tribotec: Vactra 4 
+2. Wrzeciennik: Vactra 2 
+3. Konik: Vactra 4 
+4. Smarowanie suport: Vactra 4 
+5. Hydraulika hamulec: Nuto 46 
 
 
                        
