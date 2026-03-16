@@ -6,6 +6,15 @@ Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/  1988 
 
 INFORMACJE TECHNICZNE: tnc407 
 
+OLEJE:
+
+1. Hydraulika: Nuto 46 
+2. Smarowanie: Vactra 4
+3. Konserwacja łańcucha: Molydal NS-20 
+
+1. Hydraulika stół: j/w
+2. Smarowanie stół: j/w 
+
 
                        
 SILNIK GŁÓWNY: 35kW
