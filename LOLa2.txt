@@ -6,6 +6,11 @@ Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 1988 J
 
 INFORMACJE TECHNICZNE: itnc530
 
+OLEJE:
+
+1. Hydraulika: Nuto 46
+2. Smarowanie: Vactra 4
+
 
                        
 SILNIK GŁÓWNY: 
