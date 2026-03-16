@@ -7,9 +7,17 @@ Maszyna posiada deklarację zgodności z dyrektywą narzędziową \biuro\ rok pr
 
 INFORMACJE TECHNICZNE:  X=5300 Y=1200 Z=2500/2150  obroty 10<3000  obciążenie płyty: 20.000kg 
 Sterowanie: tnc LE 426 CB, klawiatura TE 401, pilot HR 410
+
 Silnik główny 50kW
 
+OLEJE:
+1. Hydraulika maszyny: Nuto 68
+2. Smarowanie osi: Vactra 4 
+3. Olej do głowicy: Kluber GEM 1-100 N
+4. Konserwacja łańcucha:  Molydal NS-20 
 
+1. Smarowanie stołu: Vactra 2
+2. Hydraulika stołu: Nuto 46 
 
 CZĘŚCI ZAMIENNE:
 
