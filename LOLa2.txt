@@ -18,6 +18,7 @@ CZĘŚCI ZAMIENNE:
 3. Potencjometry /szafa technologia/ nowe
 4. Przewód do silnika oś W /szafa technologia/ nowy
 5. Glowice do liniału X i Y /szafa technologia lub szuflada Heidenhain biuro/
+6. Pompa zębata do hydrauliki kabiny /biuro szuflada hydraulika/ Agro Hytos P23-4,4L.65017
 
 
 
