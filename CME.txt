@@ -5,7 +5,14 @@ Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ rok pr
 
 INFORMACJE TECHNICZNE: stół 1000x2700 X=2500 Y=1000 Z=1000
 system tnc418
-silnik głowny 20kW
+
+silnik główny 20kW
+
+OLEJE:
+
+1. Hydraulika: Nuto 32
+2. Smarowanie osi: Vactra 2
+3. Głowica: Kluber ISOFLEX NCA 15 /raz w miesiącu!! /Kocur//
 
 
 CZĘŚCI ZAMIENNE:
