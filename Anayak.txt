@@ -33,7 +33,7 @@ ADNOTACJE:
 ostatni pomiar geometrii:  04.2025 LASERTEX (korekcja liniowa, brak zastrzeżeń) 
 interpolacja Z/X przy średnicy ok.700mm  ok 0.08mm owalu 
 
-Serwisy: głowica /fanuc/: Jacek Drabarz, 
+Serwisy: głowica /fanuc/: Karol Drabarz, 
          sterowanie: APS, Michał Nowak, naprawa napędów i sterowania Marcin Jonas 
 
 AKCJE: 
