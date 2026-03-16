@@ -6,6 +6,12 @@ Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ rok pr
 INFORMACJE TECHNICZNE: stół 800x800 X=1000 Y=900 Z=800
 system Pronum 640 FC
 
+OLEJE: 
+
+1. Hydraulika Nuto32/46 
+2. Smarowanie: Vactra 2 
+3. Wymiana narzędzia: Nuto 46
+
 
 
 CZĘŚCI ZAMIENNE:
