@@ -31,4 +31,5 @@ AKCJE:
 2.  03.26  szlifowanie stożka wrzeciona 
 3.  03.25  wymionieno klawiatura w USN
 4.  09.25  wymienione łozysko napinające śruby osi / Fafnir na Timmken / Kocur
-5.  08.25  wymienione wszystkie rurki hydrauliczne pod stołem / do blokad i zmieniarki palet / Kocur 
+5.  08.25  wymienione wszystkie rurki hydrauliczne pod stołem / do blokad i zmieniarki palet /Kocur/ 
+6.  20.03.26 wymiana szczęk zacisku stołu  /Kocur/  
