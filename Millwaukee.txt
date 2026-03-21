@@ -33,3 +33,4 @@ AKCJE:
 4.  09.25  wymienione łozysko napinające śruby osi / Fafnir na Timmken / Kocur
 5.  08.25  wymienione wszystkie rurki hydrauliczne pod stołem / do blokad i zmieniarki palet /Kocur/ 
 6.  20.03.26 wymiana szczęk zacisku stołu  /Kocur/  
+    /problem z bazowaniem rozwiązany 21.03, T.Respondek, zbyt duży postojowy amperaż na napędzie/ 
