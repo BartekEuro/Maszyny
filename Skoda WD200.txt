@@ -32,6 +32,10 @@ ADNOTACJE:
 AKCJE: 
 
 1. 01.26  nowa pompa głębionowa do chłodziwa LFP IF 50
+2. 23.03.26  pomiar laserowy osi Z z założoną głowicą.
+    na schowanej osi Z stwierdzono 0.06 róznicy położenia na 7800mm X
+    na maksymalnym roboczym wysówie 0.12 różnicy położenia na 7800mm X
+    
 
 
 
