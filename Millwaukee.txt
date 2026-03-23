@@ -34,3 +34,5 @@ AKCJE:
 5.  08.25  wymienione wszystkie rurki hydrauliczne pod stołem / do blokad i zmieniarki palet /Kocur/ 
 6.  20.03.26 wymiana szczęk zacisku stołu  /Kocur/  
     /problem z bazowaniem rozwiązany 21.03, T.Respondek, zbyt duży postojowy amperaż na napędzie/ 
+    w związku ze zmianą położenia kamienia bazowego osi B /oś nr 4/ BAZA STAŁA OBRABIARKI 
+    zmieniona z 170.948  na   171.458   wartość ważna dla zmieniarki palet. 
