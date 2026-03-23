@@ -43,6 +43,7 @@ ADNOTACJE:
 2. Serwis napędów Seidel /Marcin Jonas/ 
 3. Głowica TOS LOLa 1 jest zaadaptowana do głowicy kątowej BENZ. 
 4. Aktualne PLC /temp/bartek/maszyny/maszyny/LOLa1
+5. 23.03.26 stwierdzono prak prostopadłości przy wysuwie wrzeciona, 0.4mm na 1000mm opada. Lasertex 
 
 
 
