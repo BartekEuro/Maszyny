@@ -35,6 +35,7 @@ AKCJE:
 2. 23.03.26  pomiar laserowy osi Z z założoną głowicą.
     na schowanej osi Z stwierdzono 0.06 róznicy położenia na 7800mm X
     na maksymalnym roboczym wysówie 0.12 różnicy położenia na 7800mm X
+    /Lasertex, G.Budzyń/ 
     
 
 
