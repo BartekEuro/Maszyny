@@ -36,6 +36,7 @@ AKCJE:
     na schowanej osi Z stwierdzono 0.06 róznicy położenia na 7800mm X
     na maksymalnym roboczym wysówie 0.12 różnicy położenia na 7800mm X
     /Lasertex, G.Budzyń/ 
+3. 24.04.2026 wymiana zabezpieczenia silnikowego i stycznika dla wentylatora silnika głównego. 
     
 
 
