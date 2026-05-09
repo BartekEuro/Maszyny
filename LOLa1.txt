@@ -59,4 +59,5 @@ AKCJE:
 4. 05.21  Wymiana śruby kulowej Y 63x10, P5, gwint 4305mm, całkowita 4550mm 
 5. 19.03.25 wymiana wentylatora na starej szafie + na skrzynce napędów
 6. 04.05.2026 nowe eleketrosprzęgło do zmiany narzędzi, Ek 5 dBZ, fi 114x55, 24V/48W, TECHMACH.PL Wieruszów
+7. 09.05.2026  wymiana podłogi w kabinie
 
