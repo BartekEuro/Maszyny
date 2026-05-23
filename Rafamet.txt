@@ -1,5 +1,5 @@
 
-Operatorzy: Marek Setnik, Ireneusz Langer, Piotr Kwieciński 
+Operatorzy: Marek Setnik, Ireneusz Langer, Piotr Kwieciński, Dawid Piechowski 
 
 Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 
 
@@ -29,4 +29,6 @@ ADNOTACJE:
 
 
 AKCJE: 
+
+1. 23.05.2026  wymiana wentylatora silnika głownego /Kocur/ nowy wentylator, oryginalny Siemens 
 
