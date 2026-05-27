@@ -37,6 +37,7 @@ AKCJE:
 29.02.24  Nowy liniał Y LS 187 C ML=1340 ID 526 974-13
 12.03.26  Wymiana uszczelnienia mocowania narzędzia / uszczelnienie: 70x90x22/17.5 DK101 PU, indeks: WU00000101394 /Passerotti lub Martech/
 06.25 Nowy Presostat 
+27.05.2026 nowy filtr hydraulika dolny zbiornik FS1CSM
 
 
 
