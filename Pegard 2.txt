@@ -31,5 +31,6 @@ ADNOTACJE:
 
 AKCJE: 
 
-1. krańcówki mechaniczne 
+1. 16.05.2026 krańcówki mechaniczne ustawione Y 
+2. 27.05.2026 krańcówki programowe Y ustawione na +760, -1010, baza Y=0, włączony warunek bazowania /Zbigniew Rajda/ dokładoność zatrzymania Y=0.01, błąd konturu 0.5 
 
