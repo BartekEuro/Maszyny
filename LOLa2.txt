@@ -43,4 +43,6 @@ AKCJE:
 
 2. 27.04.2026 Wymiana podłogi i pleksi w kabinie operatora 
 
+3. 01.07.2026 Nowy silnik oś Y. Błąd: brak kontroli Y. Ułożenie faz od dławika: 1,3,2. 
+
 
