@@ -1,5 +1,5 @@
 
-Operatorzy: Piotr Myszka, Jakub Goj, Marcin Popielnicki, Piotr Pluta, Solowski Paweł, Adrian Wilczek
+Operatorzy: Piotr Myszka, Jakub Goj, Marcin Popielnicki, Solowski Paweł, Adrian Wilczek
 
 Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 
 
