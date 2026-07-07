@@ -1,5 +1,5 @@
 
-Operatorzy: Piotr Myszka, Jakub Goj, Arkadiusz Machulec, Denis Perdyła
+Operatorzy: Wojciech Zejman, Bogdan Poprawa, Tomasz Ruciński
 
 Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 
 
@@ -36,4 +36,5 @@ ADNOTACJE:
 AKCJE: 
 
 1. 01.06.2026 nowa obudowa kółka ręcznego Heidelberg HR410, RGB Wrocław. 
+2. 05.07.2026 nowy potencjometr posuw
 
