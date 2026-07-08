@@ -29,6 +29,8 @@ ADNOTACJE:
 
 Silnik Y: 1FT6105-1AC71-1AH1
 
+Kluczyk na stacyjce na HMI przekręcony w prawo oznacza zablokowaną klawiaturę. 
+
 
 
 
