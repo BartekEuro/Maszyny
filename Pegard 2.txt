@@ -1,5 +1,5 @@
 
-Operatorzy: Adrian Wilczek, Maksym Langer, Piotr Kandora 
+Operatorzy: Adrian Wilczek, Maksym Langer, Piotr Kandora, Denis Perdyła 
 
 Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ 
 
@@ -24,6 +24,9 @@ CZĘŚCI ZAMIENNE:
 
 
 ADNOTACJE:
+
+1. 14.07.2026  wymieniono filtry hydrauliczne przy stole i kolumnie ( 2 szt. SE-045-G-10-B/4)
+    wyczyszczo wymiennik nad agregatem hydraulicznym
 
 
 
