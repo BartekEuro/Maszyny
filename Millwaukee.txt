@@ -37,4 +37,4 @@ AKCJE:
     w związku ze zmianą położenia kamienia bazowego osi B /oś nr 4/ BAZA STAŁA OBRABIARKI 
     zmieniona z 170.948  na   171.458   wartość ważna dla zmieniarki palet. 
 7.  23.03.26  zmiana silnika osi B, założono poserwisowy silnik Kollmorgenb z osi X
-8.  
+8.  18.07.2026 cewka elektrozaworuy po serwisie /Awers/ założona na agregacie hydraulicznym. 2 zapasowe cewki na 230v magazyn. 
