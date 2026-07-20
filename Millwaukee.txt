@@ -38,3 +38,4 @@ AKCJE:
     zmieniona z 170.948  na   171.458   wartość ważna dla zmieniarki palet. 
 7.  23.03.26  zmiana silnika osi B, założono poserwisowy silnik Kollmorgenb z osi X
 8.  18.07.2026 cewka elektrozaworuy po serwisie /Awers/ założona na agregacie hydraulicznym. 2 zapasowe cewki na 230v magazyn. 
+    Nowy wentylator na wymienniku na agregacie, po 7h pracy temp. na wyjściu ok. 35 stopni 
