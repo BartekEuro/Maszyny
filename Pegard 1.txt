@@ -31,6 +31,8 @@ Silnik Y: 1FT6105-1AC71-1AH1
 
 Kluczyk na stacyjce na HMI przekręcony w prawo oznacza zablokowaną klawiaturę. 
 
+21.07.26  uzupełniono olej w przekładni. Zbyt niski poziom, powoduje błąd zmiany zakresu/przełożenia obrotów. 
+
 
 
 
