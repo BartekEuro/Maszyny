@@ -8,7 +8,7 @@ INFORMACJE TECHNICZNE: tnc426, X=1580 Y=1250 Z=900 W=1120, stół max 8000kg,
 
 OLEJE: 
 
-1. Hydraulika: Nutop 32
+1. Hydraulika: Nuto 32
 2. Smarowanie: Vactra 2
 3. Wrzeciennik: Velocite No. 6  /obieg zamknięty/
 4. Konserwacja łańcucha przeciwwagi:  Molydal NS-20
