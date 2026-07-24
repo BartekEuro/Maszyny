@@ -38,7 +38,8 @@ Serwisy: głowica /fanuc/: Karol Drabarz,
 
 AKCJE: 
 
-1.  02.26  Serwis klawiatury HMI, Marcin Jonas, wymiana 15 klawiszy i potencjometrów
-2.  09.25  Montaż nowego liniału oś Z, LS 106C ML=2240 zamiennik za ID.275067-31
-3.  03.25  Wymiana wszystkich łożysk przy gnieździe ISO50, luzy pokasowane. 
+1.  02.2026  Serwis klawiatury HMI, Marcin Jonas, wymiana 15 klawiszy i potencjometrów
+2.  09.2025  Montaż nowego liniału oś Z, LS 106C ML=2240 zamiennik za ID.275067-31
+3.  03.2025  Wymiana wszystkich łożysk przy gnieździe ISO50, luzy pokasowane. 
+4.  24.07.2026  Wymiana wentylatora wymiennika na agregacie hydraulicznym /był na 230V jest na 380V podpięty pod zasilanie silnika !!!/ 
 
