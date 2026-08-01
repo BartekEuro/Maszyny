@@ -42,7 +42,7 @@ AKCJE:
 12.03.26  Wymiana uszczelnienia mocowania narzędzia / uszczelnienie: 70x90x22/17.5 DK101 PU, indeks: WU00000101394 /Passerotti lub Martech/
 06.25 Nowy Presostat 
 27.05.2026 nowy filtr hydraulika dolny zbiornik FS1CSM
-
+01.08.2026 wymieniony wentylator w napędzie osi B /// 24V  40mm x 40mm  grubość 30mm 
 
 
 
