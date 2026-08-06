@@ -22,6 +22,7 @@ CZĘŚCI ZAMIENNE:
 
 ADNOTACJE:
 1. Po wymianie przekładni B długość rozjazdu w osi X zmniejszona z 1170 do 1100 programowo 
+2. Zawór do regulacji ciśnienia, nie może być dokręcony na 100%, w takiej sytuacji olej nie leci przez wymiennik. 
 
 
 
