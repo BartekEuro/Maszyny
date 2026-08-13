@@ -37,6 +37,8 @@ AKCJE:
     na maksymalnym roboczym wysówie 0.12 różnicy położenia na 7800mm X
     /Lasertex, G.Budzyń/ 
 3. 24.04.2026 wymiana zabezpieczenia silnikowego i stycznika dla wentylatora silnika głównego. 
+4. 13.08.2026 wentylator silnika głównego zamieniony na: EBM R4D180-AD04-09 185-250W, dorobiony adapter do korpusu i pokrywa kierunkowa. 
+              / stary wentylator + pokrywa na wykończeniu ale sprawne, zmagazynowane przez G.Kocur / 
     
 
 
