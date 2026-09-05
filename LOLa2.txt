@@ -20,7 +20,7 @@ SILNIK GŁÓWNY:
 
 
 CZĘŚCI ZAMIENNE:
-1. Silnik oś Y /magazyn hala mały/ nowy
+1. 
 2. Silnik oś Z /magazyn hala mały/ nowy  
 3. Potencjometry /szafa technologia/ nowe
 4. Przewód do silnika oś W /szafa technologia/ nowy
