@@ -3,7 +3,7 @@ Operatorzy: Tomasz Ruciński, Roman Wichur
 
 Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/ rok produkcji 1983 USA 
 
-INFORMACJE TECHNICZNE: stół 800x800 X=1000 Y=900 Z=800
+INFORMACJE TECHNICZNE: stół 800x800 X=1100 Y=1210 Z=800
 system Pronum 640 FC
 
 OLEJE: 
