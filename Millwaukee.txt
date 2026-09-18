@@ -42,3 +42,4 @@ AKCJE:
 9.  01.08.2026 Nowy wentylator na wymienniku na agregacie 115V, po 7h pracy temp. na wyjściu ok. 35 stopni 
 10. 12.09.2026 Na napędzie osi Y gaśnie zielona dioda L1 i pojawia się błąd "nieosiągnięta strefa zerowa" 
                 powód: szczotki na silniku 
+11. 15.09.2026 założona nowa głowica pomiarowa na liniał osi Y /wyciągnięta z liniału przeznaczonego do osi Z/ 
