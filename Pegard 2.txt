@@ -27,6 +27,11 @@ ADNOTACJE:
 
 1. 14.07.2026  wymieniono filtry hydrauliczne przy stole i kolumnie ( 2 szt. SE-045-G-10-B/4)
     wyczyszczo wymiennik nad agregatem hydraulicznym
+2. 9187 WZ IN DER SPINDEL GELOEST sprawdzić: 	Sygnał z czujnika położenia zacisku (indukcyjny/krańcówka).
+    ciśnienie hydrauliki/pneumatyki zacisku wrzeciona,
+       stan czujnika (może zabrudzony/uszkodzony lub źle ustawiony),
+         czy siłownik faktycznie domyka się do końca.
+    PRZEDMUCHAĆ MOCOWANIE NARZĘDZIA, GRIPER, SPRAWDZIĆ CZY DZIAŁĄ CEWKA ELEKETROZAWORU
 
 
 
