@@ -43,3 +43,4 @@ AKCJE:
 10. 12.09.2026 Na napędzie osi Y gaśnie zielona dioda L1 i pojawia się błąd "nieosiągnięta strefa zerowa" 
                 powód: szczotki na silniku 
 11. 15.09.2026 założona nowa głowica pomiarowa na liniał osi Y /wyciągnięta z liniału przeznaczonego do osi Z/ 
+12. 26.09.2026 zainstalowany nowy rozłącznik główny 125A /Symbol producenta: VCCF5 Rozłącznik główny bezpieczeństwa; Bieguny:3; napanel, śrubowy, ROHS Producent: SCHNEIDER ELECTRIC/ 
