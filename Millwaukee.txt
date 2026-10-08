@@ -29,7 +29,7 @@ ADNOTACJE:
 AKCJE: 
 
 1.  02.26  likwidacja magazynu narzędzi / nowa przekładnia stół B / nowe PLC w temp/Bartek 
-2.  03.26  szlifowanie stożka wrzeciona 
+2.  03.26  szlifowanie stożka wrzeciona /Górmich/
 3.  03.25  wymionieno klawiatura w USN
 4.  09.25  wymienione łozysko napinające śruby osi / Fafnir na Timmken / Kocur
 5.  08.25  wymienione wszystkie rurki hydrauliczne pod stołem / do blokad i zmieniarki palet /Kocur/ 
