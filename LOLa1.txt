@@ -62,3 +62,7 @@ AKCJE:
 7. 09.05.2026  wymiana podłogi w kabinie
 8. 18.09.2026 nowy potencjometr posuwu
 
+MODERNIZACJA tnc640:
+1. 12.10.2026 wyłączona z uzytkowania
+2. 15.10.2026 zdemontowana szafa sterownicza /MDT/
+
