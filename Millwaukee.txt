@@ -44,4 +44,4 @@ AKCJE:
                 powód: szczotki na silniku 
 11. 15.09.2026 założona nowa głowica pomiarowa na liniał osi Y /wyciągnięta z liniału przeznaczonego do osi Z/ 
 12. 26.09.2026 zainstalowany nowy rozłącznik główny 125A /Symbol producenta: VCCF5 Rozłącznik główny bezpieczeństwa; Bieguny:3; napanel, śrubowy, ROHS Producent: SCHNEIDER ELECTRIC/ 
-13. 17.10.2026 nowe kółko ręczne
+13. 17.10.2026 nowe kółko ręczne  A-zielony, B-biały, C-czerwony, D-czarny, F-pomarańczowo-czarny, K-brązowo-czarny, M-brązowy, N-szaro-czarny, P-czarno-żółty, R-szary, d-pomarańczowy, S-żółty
