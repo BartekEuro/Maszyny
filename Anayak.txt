@@ -45,5 +45,5 @@ AKCJE:
 5.  04.08.2026 nowy pilot ZAMEL do wymiany narzędzia.  
 6.  08.09.2026 dociągnięta nakrętka w głowicy kątowej, skasowany luz na narzędziu.   
 7.  12.10.2026 skasowany luz mechaniczny na nakrętce śruby kulowej osi X. /wynik z Faro luz zwrotny 0.02/ 
-8.  25.10.2026 nowa obudowa kółka rączego 
+8.  25.10.2026 nowa obudowa kółka rączego Heidelberg HR410, RGB Wrocław
 
