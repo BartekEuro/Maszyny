@@ -65,7 +65,7 @@ AKCJE:
 
 
 MODERNIZACJA tnc640:
-1. 12.10.2026 wyłączona z uzytkowania
+1. 15.10.2026 wyłączona z uzytkowania
 2. 15.10.2026 zdemontowana szafa sterownicza /MDT/
 3. 05.11.2026 rozpoczęcie instalacji nowej elektryki i elementów sterowania /MDT/
 4. 12.11.2026 zakończenie prac instalacyjnych i sprawdzenie poprawności działania aparatury /MDT/
