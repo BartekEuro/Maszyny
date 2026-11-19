@@ -4,7 +4,7 @@ Operatorzy: Arkadiusz Machulec, Denis Perdyła, Kandora Piotr, Maksym Langer, Ad
 
 Maszyna posiada deklarację zgodności z dyrektywą narzędziową /biuro/  1988 Jugosławia 
 
-INFORMACJE TECHNICZNE: tnc407 
+INFORMACJE TECHNICZNE: tnc640 
 
 OLEJE:
 
@@ -25,9 +25,9 @@ CZĘŚCI ZAMIENNE:
 
 1. 
 2. Silnik oś Z,W /magazyn hala mały/ nowy
-3. Klawiaturta TE 400 /w szafie niebieskiej, jest klawiatura na czesci zamienne/  
-4. Potencjometry /szafa technologia/ nowe
-5. Przewód do silnika oś W /szafa technologia/ nowy
+3.  
+4. 
+5. Przewód do silnika oś W /szafa technologia/ używana, sprawny
 6. Zawory PONAR do stolu PEGARD /szuflada hydraulika biuro/
 7. Glowice do liniału X /szafa technologia lub szuflada Heidenhain biuro/
 8. Pompa zębata do hydrauliki kabiny /biuro szuflada hydraulika/ Agro Hytos P23-4,4L.65017
@@ -42,7 +42,7 @@ ADNOTACJE:
 1. Łańcuch do przeciwwagi LL 2066 10 metrow /BOLTEX Wojciech Subocz/
 2. Serwis napędów Seidel /Marcin Jonas/ 
 3. Głowica TOS LOLa 1 jest zaadaptowana do głowicy kątowej BENZ. 
-4. Aktualne PLC /temp/bartek/maszyny/maszyny/LOLa1
+4. Aktualne PLC: Z:\Temp\Bartek\MASZYNY\MASZYNY\LOLA 1 I 2\LOLa1\LOLA1 PLC Dane Maszynowe (po modernizacjach)\Po wymianie szafy i sterowania
 5. 23.03.26 stwierdzono brak prostopadłości przy wysuwie wrzeciona, 0.4mm na 1000mm opada. Lasertex 
 6. 01.04.26 stan łańcucha przeciwwagi, zużycie niecałe 0.5% /maxymalnie do 3%/
 
@@ -70,4 +70,6 @@ MODERNIZACJA tnc640:
 3. 05.11.2026 rozpoczęcie instalacji nowej elektryki i elementów sterowania /MDT/
 4. 12.11.2026 zakończenie prac instalacyjnych i sprawdzenie poprawności działania aparatury /MDT/
 5. 16.11.2026 rozpoczęcie programowania PLC i rozruchu /APS + MDT/ 
+6. 19.11.2026 zakończenie prac związanych z programowaniem, maszyna przekazana do użytkowania /APS/
+7. 24.11.2026 pełna korekcja geometrii i obrotów /LASERTEX/ 
 
