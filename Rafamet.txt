@@ -32,4 +32,5 @@ AKCJE:
 
 1. 23.05.2026  wymiana wentylatora silnika głownego /Kocur/ nowy wentylator, oryginalny Siemens 
 2. 06.10.2026  wymiana koła pasowego na silniku osi Z (suwak) koło z otworem fi35 wymienione na koło optibelt TB 20 H200 + taper lock 1610 (otwór fi35 z klinem) 
+3. 21.11.2026  nowy filtr układu hydraulicznego smarowania stołu (HY 10219) 
 
