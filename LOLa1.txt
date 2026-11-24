@@ -71,5 +71,5 @@ MODERNIZACJA tnc640:
 4. 12.11.2026 zakończenie prac instalacyjnych i sprawdzenie poprawności działania aparatury /MDT/
 5. 16.11.2026 rozpoczęcie programowania PLC i rozruchu /APS + MDT/ 
 6. 19.11.2026 zakończenie prac związanych z programowaniem, maszyna przekazana do użytkowania /APS/
-7. 24.11.2026 pełna korekcja geometrii i obrotów /LASERTEX/ 
+7. 24.11.2026 pełna korekcja geometrii /LASERTEX/ 
 
